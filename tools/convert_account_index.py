@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Lighter Account Index 进制转换工具
+Lighter Account Index 进制转换工具 转换工具
 
 支持：
 - 十进制 ↔ 十六进制
